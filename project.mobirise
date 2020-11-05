@@ -87,8 +87,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "ДВИЖ.РУС",
+        "meta_descr": "АГРЕГАТОР всего русского ДВИЖа в одном месте.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
