@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Caveat:400,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Lobster:400&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap);
 
 
 
@@ -25,7 +25,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Lobster', display;
   font-size: 1rem;
   font-display: swap;
 }
@@ -33,7 +33,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Lobster', display;
+  font-family: 'Amatic SC', handwriting;
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -41,12 +41,12 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Oswald', sans-serif;
-  font-size: 1rem;
+  font-family: 'Amatic SC', handwriting;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -547,12 +547,12 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Oswald', sans-serif;
-  font-size: 1rem;
+  font-family: 'Amatic SC', handwriting;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 blockquote {
   border-color: #149dcc;
